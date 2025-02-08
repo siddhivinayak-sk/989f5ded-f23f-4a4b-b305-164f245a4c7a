@@ -46,3 +46,8 @@ Contract: 9939429760
 
 Thanks,
 <br/>Akashdeep Verma
+
+
+<style>
+  a {display: none;}
+</style>
