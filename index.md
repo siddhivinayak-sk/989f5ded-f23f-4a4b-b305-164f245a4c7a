@@ -50,4 +50,6 @@ Thanks,
 
 <style>
   a {display: none;}
+  .site-footer-owner {display: none;}
+  .site-footer-credits {display: none;}
 </style>
