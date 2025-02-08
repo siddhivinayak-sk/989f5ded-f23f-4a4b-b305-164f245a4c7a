@@ -1,4 +1,4 @@
-![Akashdeep Verma](me-art.jpg)
+![Akashdeep Verma](meart.jpp.jpeg)
 
 ## Overview
 
