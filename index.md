@@ -18,10 +18,10 @@
 
 # About Me
 
-DOB: Dec, 1995
-Height: 5 feet 4 inches
-Place of Birth: Barauli, Gopalganj
-Mother Tongue: Bhojpuri and Hindi
+DOB: Dec, 1995 \
+Height: 5 feet 4 inches \
+Place of Birth: Barauli, Gopalganj \
+Mother Tongue: Bhojpuri and Hindi \
 
 I belong to a well-mannered middle-class Kushwaha family and strongly consider Hindu culture, rituals & holds an open-minded personality. I never drink, smoke and take any kind of intoxication. I'm affectionate, kind-hearted, caring, happy & believes in hardworking and creativity. I run a business on my own since last8 years. My hobbies are watching documentaries and learn new things.  
 
