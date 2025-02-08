@@ -1,5 +1,5 @@
 # theme: jekyll-theme-architect
-# theme: jekyll-theme-cayman
+theme: jekyll-theme-cayman
 # theme: jekyll-theme-time-machine
 # theme: jekyll-theme-tactile
 # theme: jekyll-theme-slate
@@ -8,7 +8,7 @@
 # theme: jekyll-theme-midnight
 # theme: jekyll-theme-merlot
 # theme: jekyll-theme-leap-day
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 
 # Page title and description 
 title: Akashdeep Verma
